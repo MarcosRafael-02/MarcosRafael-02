@@ -1,6 +1,6 @@
 <h1> Marcos Rafael </h1>
 
-<p>Olá, me chamo Marcos Rafael da Silva, tenho 23 anos, sou natural do interior de São Paulo, no momento estou na atuando na área da construção civil e estou em transição de carreira para a área da programação, atualmente estou cursandoo <a href="https://lp.devclub.com.br/devclub-oficial/">DevClub</a> do professor Rodolfo Mori</p>
+<p>Olá, me chamo Marcos Rafael da Silva, tenho 23 anos, sou natural do interior de São Paulo, no momento estou na atuando na área da construção civil e estou em transição de carreira para a área da programação, atualmente estou cursandoo <a href="https://lp.devclub.com.br/devclub-oficial/">DevClub</a> do professor Rodolfo Mori.</p>
 
 
 
