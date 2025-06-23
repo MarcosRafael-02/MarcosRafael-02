@@ -36,16 +36,8 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MarcosRafael-02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Marcos_stats](https://github-readme-stats.vercel.app/api?username=MarcosRafael-02&show_icons=true&theme=radical)
 
-</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRafael-02&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRafael-02)](https://github.com/anuraghazra/github-readme-stats)
 
