@@ -1,8 +1,8 @@
-<h1> Marcos Rafael </h1>
+<h1> 👨🏽‍💻 Marcos Rafael </h1>
 
-<p>Olá, me chamo Marcos Rafael da Silva, tenho 23 anos, sou natural do interior de São Paulo, no momento estou atuando na área da construção civil e estou em transição de carreira para a área da programação, atualmente estou cursandoo <a href="https://lp.devclub.com.br/devclub-oficial/">DevClub</a> do professor Rodolfo Mori.</p>
+<p>Olá, me chamo Marcos Rafael da Silva, tenho 23 anos, sou natural do interior de São Paulo, no momento estou atuando na área da construção civil e estou em transição de carreira para a área da programação, atualmente estou cursando Análise e desenvolvimento de sistemas na faculdade Anhanguera e também estou fazendo o curso do <a href="https://lp.devclub.com.br/devclub-oficial/">DevClub</a> do professor Rodolfo Mori.</p>
 
-
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -30,14 +30,13 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<br>
 
-<br>
-<br>
+---
 
 ### 📊 Estatísticas
 
-![Marcos_stats](https://github-readme-stats.vercel.app/api?username=MarcosRafael-02&show_icons=true&theme=radical)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosRafael-02&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosRafael-02&theme=dark&utcOffset=8) |
+| :-: | :-: |
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRafael-02)](https://github.com/anuraghazra/github-readme-stats)
 
